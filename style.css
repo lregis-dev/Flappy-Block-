@@ -1,0 +1,17 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { display: flex; justify-content: center; align-items: center; height: 100vh; background: black; position: relative; }
+canvas { background: lightblack; }
+#gameOverScreen {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+button { margin-top: 10px; padding: 10px; font-size: 16px; cursor: pointer; }
