@@ -1,23 +1,20 @@
-Flappy Block 🕹️
-Um jogo simples inspirado no Flappy Bird, desenvolvido com HTML, CSS e JavaScript.
+# Flappy Block 🕹️
 
-📌 Como jogar?
-  Pressione qualquer tecla para fazer o bloco "pular".
-  Evite os obstáculos para marcar pontos.
-  Se o bloco colidir com um obstáculo ou tocar o chão, o jogo termina.
+Um jogo simples inspirado no **Flappy Bird**, desenvolvido com **HTML, CSS e JavaScript**.
 
-🛠️ Tecnologias utilizadas
-  HTML → Estrutura do jogo.
+## 📌 Como jogar?
+- Pressione **qualquer tecla** para fazer o bloco "pular".  
+- **Evite os obstáculos** para marcar pontos.  
+- Se o bloco **colidir com um obstáculo** ou **tocar o chão**, o jogo termina.  
 
-  CSS → Estilização dos elementos na tela.
+## 🛠️ Tecnologias utilizadas
+- **HTML** → Estrutura do jogo.  
+- **CSS** → Estilização dos elementos na tela.  
+- **JavaScript** → Lógica do jogo e manipulação do canvas.  
 
-  JavaScript → Lógica do jogo e manipulação do canvas.
+## 🚀 Como executar o jogo?
+1. Faça o download do repositório ou clone-o:  
+   ```sh
+   git clone https://github.com/seu-usuario/Flappy-Block.git
 
-🚀 Como executar o jogo?
-  Faça o download do repositório ou clone-o:
-
-  git clone https://github.com/seu-usuario/Flappy-Block.git
-
-📄 Licença
-  Este projeto é de código aberto e está sob a licença MIT.
-
+2. Abra o arquivo index.html no navegador.
